@@ -96,17 +96,6 @@ Preparing for my B1 English Certification to operate seamlessly in global engine
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevinnndev&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinnndev&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🔗 Connect
 
 <a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-vi%E1%BB%87t-b51861356/">
