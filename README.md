@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=HOANG%20%7C%20KEVINNNDEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud%20Engineering&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=HOANG%20%7C%20KEVINNNDEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Cloud%20Engineering&descAlignY=58&descAlign=50" />
 
 <br>
 
@@ -98,8 +98,8 @@ Preparing for my B1 English Certification to operate seamlessly in global engine
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevinnndev&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&icon_color=58A6FF&title_color=58A6FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinnndev&layout=compact&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevinnndev&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinnndev&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
