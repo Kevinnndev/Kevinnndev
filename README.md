@@ -1,130 +1,123 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=2500&pause=800&color=38BDF8&center=true&vcenter=true&width=600&lines=HOANG+%7C+CLOUD+%26+QA+ENGINEER;Architecting+AWS+Infrastructure;Automating+Quality+Assurance;HUTECH+University+IT+Senior" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=HOANG%20%7C%20KEVINNNDEV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud%20Engineering&descAlignY=58&descAlign=50" />
 
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Enthusiast-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Badge" />
-    </a>
-    <a href="https://git.io/typing-svg">
-      <img src="https://img.shields.io/badge/QA-Automation_Testing-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="QA Badge" />
-    </a>
-    <a href="https://git.io/typing-svg">
-      <img src="https://img.shields.io/badge/Education-HUTECH_University-FF5722?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="HUTECH Badge" />
-    </a>
-  </p>
+<br>
 
-  <br>
-  
-  ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer;Cloud+Engineer;Senior+IT+Student)](https://git.io/typing-svg)
+
+<br>
 
 </div>
 
-### 🌌 &nbsp; About Me
+<div align="center">
 
-<div align="justify">
-Senior IT student at HUTECH University specializing in Cloud Infrastructure (AWS) and Software Quality Assurance. Driven by a methodology of building resilient cloud systems and systematically breaking code to guarantee high-grade software quality. Recently completed the intensive <b>AWS Cloud Bootcamp</b> and actively preparing for the <b>B1 English Certification</b> to empower global engineering collaboration.
+### 🚀 About Me
+
+I build scalable backend systems and architect resilient cloud infrastructure on AWS.
+My focus is on clean API design, secure network architecture, and turning complex technical problems into elegant, maintainable code.
+Currently sharpening my cloud engineering edge through hands-on AWS projects — always shipping, always learning.
+Preparing for my B1 English Certification to operate seamlessly in global engineering teams.
+
 </div>
 
 <br>
 
 <div align="center">
 
----
+### 🛠️ Tech Stack & Tools
 
-### ⚡ &nbsp; Tech Stack & Tools
+**Backend & Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,nodejs,html&theme=dark" />
+
+<br><br>
+
+**Cloud & Infrastructure**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
+
+<br><br>
+
+**Tools & Workflow**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+</div>
 
 <br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postman,js,html,git,linux,vscode,github&theme=dark" alt="My Tech Stack" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/> AWS (VPC, IAM, S3)</code> &nbsp;|&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png" alt="Postman"/> Katalon Studio & Postman</code> &nbsp;|&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jira/jira.png" alt="Jira"/> Jira & Agile/Scrum</code>
-</p>
+### 📦 Featured Projects
 
-<br>
+</div>
 
----
-
-### 🚀 &nbsp; Featured Repositories
-
-<br>
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ <a href="https://github.com/Kevinnndev/InternshipReportAWS">InternshipReportAWS</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS Badge" />
-        <img src="https://img.shields.io/badge/AWS-Bootcamp-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS Badge" />
-      </p>
-      <p>Practical implementation of cloud architecture patterns, security configurations (IAM, VPC), and AWS infrastructure documentation developed during hands-on cloud training.</p>
+      <h3>☁️ InternshipReportAWS</h3>
+      <p>A documented deep-dive from my AWS Bootcamp, showcasing hands-on cloud infrastructure setup — VPC design, IAM policy configuration, and S3 storage architecture in real deployment scenarios.</p>
+      <p><b>Tech:</b> JavaScript · AWS</p>
+      <a href="https://github.com/Kevinnndev/InternshipReportAWS">
+        <img src="https://img.shields.io/badge/View_Repo-0f2027?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎲 <a href="https://github.com/Kevinnndev/metaPokerAnalyst">metaPokerAnalyst</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS Badge" />
-        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License" />
-      </p>
-      <p>An analytical JavaScript module engineered for probability assessment, data calculations, and algorithmic decision evaluation for card game telemetry.</p>
+      <h3>♠️ metaPokerAnalyst</h3>
+      <p>A logic-driven analytical engine that processes poker session data to surface statistical patterns — built with backend-style modular JavaScript for accurate, repeatable computation.</p>
+      <p><b>Tech:</b> JavaScript · MIT License</p>
+      <a href="https://github.com/Kevinnndev/metaPokerAnalyst">
+        <img src="https://img.shields.io/badge/View_Repo-0f2027?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/Kevinnndev/Study4Everyone">Study4Everyone</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS Badge" />
-        <img src="https://img.shields.io/badge/Platform-Education-blue?style=flat-square" alt="Edu Badge" />
-      </p>
-      <p>An interactive web application structured to streamline digital learning materials, course tracking, and collaborative educational resources for students.</p>
+      <h3>📚 Study4Everyone</h3>
+      <p>An educational access platform designed with a scalable content-delivery architecture in mind, laying the groundwork for structured backend data models and user management.</p>
+      <p><b>Tech:</b> JavaScript</p>
+      <a href="https://github.com/Kevinnndev/Study4Everyone">
+        <img src="https://img.shields.io/badge/View_Repo-0f2027?style=for-the-badge&logo=googlescholar&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎸 <a href="https://github.com/Kevinnndev/Musical-instrument-store">Musical-instrument-store</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" />
-        <img src="https://img.shields.io/badge/UI%2FUX-E-commerce-orange?style=flat-square" alt="Ecommerce Badge" />
-      </p>
-      <p>A clean, responsive e-commerce frontend interface highlighting modern layout design, product catalog displays, and seamless user navigation flows.</p>
+      <h3>🎸 Musical-instrument-store</h3>
+      <p>A clean, structured storefront interface built with semantic HTML — focused on organized product presentation and a solid foundation for future e-commerce logic.</p>
+      <p><b>Tech:</b> HTML</p>
+      <a href="https://github.com/Kevinnndev/Musical-instrument-store">
+        <img src="https://img.shields.io/badge/View_Repo-0f2027?style=for-the-badge&logo=htmx&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
 
----
+<div align="center">
 
-### 📊 &nbsp; GitHub Telemetry
+### 📊 GitHub Stats
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevinnndev&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&icon_color=58A6FF&title_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinnndev&layout=compact&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF" />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevinnndev&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0d1117" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinnndev&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-</p>
+</div>
 
 <br>
 
----
+<div align="center">
 
-### 🌐 &nbsp; Connect & Collaborate
+### 🔗 Connect
 
-<br>
+<a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-vi%E1%BB%87t-b51861356/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nguyenviethoangvn15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Kevinnndev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@kevinnndev.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
